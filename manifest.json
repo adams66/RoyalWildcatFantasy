@@ -55,15 +55,8 @@
     "src": "/img/Android/Icon-512.png",
     "type": "image/png",
     "sizes": "512x512"
-},
-
-{
-    "src": "/img/maskable/maskable_icon.png",
-    "type": "image/png",
-    "sizes": "571x571",
-    "purpose": "any maskable"
-
 }
+
 
 
 
