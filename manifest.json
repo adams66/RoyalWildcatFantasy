@@ -1,0 +1,73 @@
+{
+
+"name": "Royal Wildcat",
+"short_name": "RoyalWildcat",
+"start_url": "/index.html",
+"display": "standalone",
+"background_color": "#000000",
+"theme_color":"#3e01ff",
+"orientation": "portrait-primary",
+"icons": [
+{
+    "src": "/img/Android/Icon-72.png",
+    "type": "image/png",
+    "sizes": "72x72"
+},
+
+{
+    "src": "/img/Android/Icon-96.png",
+    "type": "image/png",
+    "sizes": "96x96"
+},
+
+{
+    "src": "/img/iOS/Icon-128.png",
+    "type": "image/png",
+    "sizes": "128x128"
+},
+
+{
+    "src": "/img/Android/Icon-144.png",
+    "type": "image/png",
+    "sizes": "144x144"
+},
+
+{
+    "src": "/img/iOS/Icon-152.png",
+    "type": "image/png",
+    "sizes": "152x152"
+},
+
+{
+    "src": "/img/Android/Icon-192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+},
+
+{
+    "src": "/img/Android/Icon-384.png",
+    "type": "image/png",
+    "sizes": "384x384"
+},
+
+
+{
+    "src": "/img/Android/Icon-512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+},
+
+{
+    "src": "/img/maskable/maskable_icon.png",
+    "type": "image/png",
+    "sizes": "571x571",
+    "purpose": "any maskable"
+
+}
+
+
+
+
+
+]
+}
