@@ -52,7 +52,7 @@
 
 
 {
-    "src": "/img/Android/Icon-512.png",
+    "src": "img/Android/Icon-512.png",
     "type": "image/png",
     "sizes": "512x512"
 }
