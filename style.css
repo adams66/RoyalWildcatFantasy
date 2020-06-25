@@ -80,6 +80,7 @@ font-family: 'Barlow', sans-serif;
 
 .nav__link{
   display: flex;
+  padding-top: 5px;
   flex-direction: column;
   text-decoration: none;
   color: #ffffff;
